@@ -1,0 +1,14 @@
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/bin/Debug/net9.0/ArrayseListas
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/bin/Debug/net9.0/ArrayseListas.deps.json
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/bin/Debug/net9.0/ArrayseListas.runtimeconfig.json
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/bin/Debug/net9.0/ArrayseListas.dll
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/bin/Debug/net9.0/ArrayseListas.pdb
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/obj/Debug/net9.0/ArrayseListas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/obj/Debug/net9.0/ArrayseListas.AssemblyInfoInputs.cache
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/obj/Debug/net9.0/ArrayseListas.AssemblyInfo.cs
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/obj/Debug/net9.0/ArrayseListas.csproj.CoreCompileInputs.cache
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/obj/Debug/net9.0/ArrayseListas.dll
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/obj/Debug/net9.0/refint/ArrayseListas.dll
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/obj/Debug/net9.0/ArrayseListas.pdb
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/obj/Debug/net9.0/ArrayseListas.genruntimeconfig.cache
+/Users/luizdanunciacao/RiderProjects/ArrayseListas/ArrayseListas/obj/Debug/net9.0/ref/ArrayseListas.dll
